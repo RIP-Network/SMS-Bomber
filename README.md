@@ -35,3 +35,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 # Terminal
 
 ![Screenshot](terminal.png)
+
+# Canal de YT
+
+https://youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w
