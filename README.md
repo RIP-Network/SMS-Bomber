@@ -4,7 +4,7 @@ Herramienta para Spam de SMS echa por Python que usa redes sociales famosas func
 No hace falta usar VPN o mucho tiempo de espera con 30 minutos serian suficientes para iniciar otro ataque ya que esta herramienta usa redes famosas y es manual la parte de enviar el SMS y llamadas haciendola mas rapida en el lapso de tiempo.
 
 ![Screenshot](sms.png)
-# Como usar Linux 
+# Como usar en Linux 
 
 $ git clone https://github.com/RIP-Network/SMS-Bomber
 
@@ -16,7 +16,7 @@ $ pip3 install -r requeriments.txt
 
 $ python3 SMS.py
 
-# Como usar Termux
+# Como usar en Termux
 
 $ git clone https://github.com/RIP-Network/SMS-Bomber
 
