@@ -1,0 +1,7 @@
+webbrowser
+selenium
+platform
+subprocess
+time
+colorama
+importlib_metadata
