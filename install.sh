@@ -14,6 +14,7 @@ dependencias() {
         pip install subprocess
         pip install time
         pip install colorama
+        pip install importlib_metadata
          printf "\e[1;93mDependencias Instaladas con exito\e[0m\n"
 
 
