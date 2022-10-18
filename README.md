@@ -14,4 +14,16 @@ $ ./install.sh
 
 $ python3 SMS.py
 
-#
+# Redes sociales que usa para los SMS y llamadas
+
+* Instagram
+
+* Tiktok
+
+* Snapchat
+
+* Twitter
+
+* Facebook 
+
+* Yandex
