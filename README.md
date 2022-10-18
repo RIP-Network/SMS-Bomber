@@ -16,6 +16,8 @@ $ python3 SMS.py
 
 # Redes sociales que usa para los SMS y llamadas
 
+La herramienta usara estas redes sociales para enviar SMS y llamadas a la victima. 
+
 * Instagram
 
 * Tiktok
