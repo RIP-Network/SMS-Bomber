@@ -12,6 +12,8 @@ $ cd SMS-Bomber
 
 $ bash install.sh
 
+$ pip3 install -r requeriments.txt
+
 $ python3 SMS.py
 
 # Como usar Termux
@@ -23,6 +25,8 @@ $ cd SMS-Bomber
 $ chmod +x * install.sh
 
 $ ./install.sh
+
+$ pip3 install -r requeriments.txt
 
 $ python3 SMS.py
 
