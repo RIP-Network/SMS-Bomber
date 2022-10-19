@@ -103,18 +103,7 @@ def menu():
      elif d == "4":
         print("Espere por favor...")
         os.system('clear')
-        time.sleep(4)
-        os.system("termux-open-url https://www.instagram.com/accounts/password/reset/")
-        time.sleep(2)
-        os.system("termux-open-url https://accounts.snapchat.com/accounts/password_reset/phone")
-        time.sleep(2)
-        os.system("termux-open-url https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0")
-        time.sleep(2)
-        os.system("termux-open-url https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D")
-        time.sleep(2)
-        os.system("termux-open-url https://mail.yandex.com/")
-        time.sleep(2)
-        os.system("termux-open-url https://web.telegram.org/k/")
+        print("El spam SMS de termux no esta disponible en python ejecute el bash por favor.")
         time.sleep(2)
 
 
