@@ -88,6 +88,10 @@ def menu():
         webbrowser.open('https://ssl.zc.qq.com/v3/index-en.html')
         time.sleep(2)
         webbrowser.open('https://accounts.google.com/signup/v2/webgradsidvverify?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp&TL=AM3QAYa48CweUwImQCw_3Elte75AVCrYB6qeOJD4bRLxRrQfDjza1njxfXURCntM')
+        time.sleep(2)
+        webbrowser.open('https://help.steampowered.com/es/wizard/HelpWithLoginInfo?issueid=406')
+        time.sleep(2)
+        webbrowser.open('https://account.live.com/username/recover?wreply=https://login.live.com/login.srf%3flc%3d3082%26mkt%3dES-ES%26wa%3dwsignin1.0%26rpsnv%3d13%26ct%3d1666198253%26rver%3d7.0.6737.0%26wp%3dMBI_SSL%26wreply%3dhttps%253a%252f%252foutlook.live.com%252fowa%252f0%252f%253fstate%253d1%2526redirectTo%253daHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC8%2526RpsCsrfState%253df0538ed8-93f0-d07e-bf5a-7a46544e907d%26id%3d292841%26aadredir%3d1%26whr%3drevtxt.com%26CBCXT%3dout%26lw%3d1%26fl%3ddob%252cflname%252cwld%26cobrandid%3d90015%26contextid%3d5015B1DD9156F9A2%26bk%3d1666198254%26uaid%3d3969d24881894986a209dd5917148ab9&id=292841&cobrandid=90015&mkt=ES-ES&lc=3082&uaid=3969d24881894986a209dd5917148ab9&uiflavor=web')
 
      if d == "2":
         print("Vuelva atras del programa y ejecute en la terminal bash install.sh")
