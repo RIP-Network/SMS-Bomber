@@ -66,7 +66,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 # Versión
 
-Versión 5.0
+Versión 6.0
 
 # Canal de YT
 
