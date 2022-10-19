@@ -52,11 +52,11 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 * Gmail
 
-* Outlook ( Próximamente )
+* Outlook 
 
-* Microsoft ( Próximamente )
+* Microsoft 
 
-* Steam ( Próximamente )
+* Steam 
 
 * GitHub ( Próximamente )
 
