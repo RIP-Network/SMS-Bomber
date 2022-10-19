@@ -57,6 +57,7 @@ $ ./install.sh
 $ pip3 install -r requeriments.txt
 
 $ bash or ./SMS.py
+
 ( La version para Termux actualmente ya esta funcionando , para usarla teneis que ejecutar el archivo SMS.sh es donde se encuentra la version para Termux. )
 
 # Redes sociales que usa para los SMS y llamadas
