@@ -18,6 +18,18 @@ $ pip3 install -r requeriments.txt
 
 $ python3 SMS.py
 
+#
+
+$ git clone https://github.com/RIP-Network/SMS-Bomber
+
+$ cd SMS-Bomber
+
+$ bash install.sh
+
+$ pip3 install -r requeriments.txt
+
+$ bash SMS.sh
+
 # Como usar en Termux
 
 $ git clone https://github.com/RIP-Network/SMS-Bomber
@@ -32,6 +44,19 @@ $ pip3 install -r requeriments.txt
 
 $ python3 SMS.py
 
+#
+
+$ git clone https://github.com/RIP-Network/SMS-Bomber
+
+$ cd SMS-Bomber
+
+$ chmod +x * install.sh
+
+$ ./install.sh
+
+$ pip3 install -r requeriments.txt
+
+$ bash or ./SMS.py
 ( La version para Termux actualmente ya esta funcionando , para usarla teneis que ejecutar el archivo SMS.sh es donde se encuentra la version para Termux. )
 
 # Redes sociales que usa para los SMS y llamadas
