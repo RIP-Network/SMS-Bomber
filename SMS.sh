@@ -33,7 +33,7 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V4.0 "
+echo " RIP-Network V5.0 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Instalar requisitos"
@@ -48,7 +48,13 @@ read opcion
 
 case $opcion in
 1) echo "Spam-SMS (Linux)"
-ls
+open https://www.instagram.com/accounts/password/reset/
+open https://accounts.snapchat.com/accounts/password_reset/phone
+open https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0
+open https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D
+open https://mail.yandex.com/
+open https://web.telegram.org/k/
+
 read foo
 ;;
 2) echo "Instalar requisitos"
@@ -69,7 +75,12 @@ sleep 4
 read foo
 ;;
 4) echo "Spam-SMS (Termux)"
-ls
+open https://www.instagram.com/accounts/password/reset/
+open https://accounts.snapchat.com/accounts/password_reset/phone
+open https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0
+open https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D
+open https://mail.yandex.com/
+open https://web.telegram.org/k/
 read foo
 ;;
 5) echo "Como usar"
