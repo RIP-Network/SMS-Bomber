@@ -50,7 +50,7 @@ banner = Fore.RED + """…………..$……………………………………
 
 print(banner)
 print(Fore.GREEN + "              RIP-Network")
-print("                 V4.0")
+print("                 V5.0")
 time.sleep(3)
 
 
@@ -58,7 +58,7 @@ def menu():
     while True:
      print(Fore.GREEN + "Opciones\n")     
      print("1) Spam-SMS (Linux)                     RIP-Network                             ")                    
-     print("2) Instalar requisitos                  Version 4.0                             ")
+     print("2) Instalar requisitos                  Version 5.0                             ")
      print("3) Version de la herramienta ")
      print("4) Spam-SMS (Termux)")
      print("5) Como usar ")
