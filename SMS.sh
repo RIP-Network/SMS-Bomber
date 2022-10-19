@@ -78,7 +78,7 @@ read foo
 ;;
 4) echo "Spam-SMS (Termux)"
 cd tools
-bash Termux.sh
+python3 Termux.py
 read foo
 ;;
 5) echo "Como usar"
