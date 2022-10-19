@@ -3,6 +3,8 @@ Herramienta para Spam de SMS echa por Python que usa redes sociales famosas func
 
 No hace falta usar VPN o mucho tiempo de espera con 30 minutos serian suficientes para iniciar otro ataque ya que esta herramienta usa redes famosas y es manual la parte de enviar el SMS y llamadas haciendola mas rapida en el lapso de tiempo.
 
+En la version 5.0 se ha añadido el archivo en bash , esto servira por si no funciona en python tener otra opcion , a la hora de ejecutar SMS.sh recuerda no tener root activado por si acaso puede dar errores.
+
 ![Screenshot](sms.png)
 # Como usar en Linux 
 
