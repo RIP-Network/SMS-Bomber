@@ -86,6 +86,12 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 * GitHub ( Próximamente )
 
+* WhatsApp ( Próximamente )
+
+# Mensajes 
+
+![Screenshot](mensajes.png)
+
 # Terminal
 
 ![Screenshot](terminal.png)
