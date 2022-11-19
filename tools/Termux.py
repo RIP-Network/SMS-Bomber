@@ -15,7 +15,7 @@ cierre = '\033[39m'
 
 os.system('clear')
 print(Fore.GREEN + "              RIP-Network")
-print("                 V6.0")
+print("                 V6.2")
 time.sleep(3)
 
 
@@ -23,7 +23,7 @@ def menu():
     while True:
      print(Fore.GREEN + "Opciones\n")     
      print("1) 1                  RIP-Network                             ")                    
-     print("2) 2                  Version 6.0                             ")
+     print("2) 2                  Version 6.2                             ")
      print("3) 3")
      print("4) 4")
      print("5) 5")
