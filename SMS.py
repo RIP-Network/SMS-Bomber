@@ -53,7 +53,7 @@ banner = Fore.RED + """…………..$……………………………………
 
 print(banner)
 print(Fore.BLUE + "              RIP-Network")
-print(azul+"                 V7.0"+cierre)
+print(azul+"                 V7.5"+cierre)
 time.sleep(3)
 
 
@@ -61,7 +61,7 @@ def menu():
     while True:
      print(Fore.BLUE + "Opciones\n")     
      print(azul+"1) Spam-SMS (Linux)                     RIP-Network                             "+cierre)                    
-     print(azul+"2) Instalar requisitos                  Version 7.0                             "+cierre)
+     print(azul+"2) Instalar requisitos                  Version 7.5                             "+cierre)
      print(azul+"3) Version de la herramienta "+cierre)
      print(azul+"4) Spam-SMS (Termux)"+cierre)
      print(azul+"5) Como usar "+cierre)
@@ -81,7 +81,7 @@ def menu():
         time.sleep(2)
         webbrowser.open('https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0')
         time.sleep(2)
-        webbrowser.open('https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D')
+        webbrowser.open('https://www.paypal.com/es/welcome/signup/#/mobile_conf')
         time.sleep(2)
         webbrowser.open('https://passport.yandex.com/registration/mail?from=mail&require_hint=1&origin=hostroot_homer_reg_com&retpath=https%3A%2F%2Fmail.yandex.com%2F&backpath=https%3A%2F%2Fmail.yandex.com%3Fnoretpath%3D1')
         time.sleep(2)
@@ -99,7 +99,7 @@ def menu():
         print("Vuelva atras del programa y ejecute en la terminal bash install.sh")
 
      if d == "3":
-         print("version 7.0 by RIP-Network")
+         print("version 7.5 by RIP-Network")
     
 
      elif d == "4":
