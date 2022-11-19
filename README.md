@@ -6,6 +6,12 @@ No hace falta usar VPN o mucho tiempo de espera con 30 minutos serian suficiente
 En la version 5.0 se ha añadido el archivo en bash , esto servira por si no funciona en python tener otra opcion , a la hora de ejecutar SMS.sh recuerda no tener root activado por si acaso puede dar errores.
 
 ![Screenshot](sms.png)
+# Menu 
+
+* bash menu.sh
+
+Esto hará mucho más fácil para poder guiarte por la herramienta.
+
 # Como usar en Linux 
 
 $ git clone https://github.com/RIP-Network/SMS-Bomber
@@ -86,7 +92,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 * GitHub ( Próximamente )
 
-* WhatsApp ( Próximamente )
+* WhatsApp 
 
 # Mensajes 
 
@@ -98,7 +104,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 # Versión
 
-Versión 6.0
+Versión 7.0
 
 # Canal de YT
 
