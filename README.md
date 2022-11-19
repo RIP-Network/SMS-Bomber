@@ -90,9 +90,11 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 * Microsoft 
 
-* Steam 
+* Steam
 
-* GitHub ( Próximamente )
+* PayPal 
+
+* GitHub 
 
 * WhatsApp 
 
@@ -106,7 +108,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 # Versión
 
-Versión 7.0
+Versión 7.5
 
 # Canal de YT
 
