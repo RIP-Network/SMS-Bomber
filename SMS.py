@@ -18,6 +18,9 @@ cierre = '\033[39m'
 #Banner 
 
 os.system('clear')
+print(rojo+"Happy Hacking"+cierre)
+os.system('sleep 5')
+os.system('clear')
 
 banner = Fore.RED + """…………..$……………………………………..$…………..
 …………$$……………………………………..$$…………
@@ -49,28 +52,29 @@ banner = Fore.RED + """…………..$……………………………………
 
 
 print(banner)
-print(Fore.GREEN + "              RIP-Network")
-print("                 V6.0")
+print(Fore.BLUE + "              RIP-Network")
+print(azul+"                 V7.0"+cierre)
 time.sleep(3)
 
 
 def menu():
     while True:
-     print(Fore.GREEN + "Opciones\n")     
-     print("1) Spam-SMS (Linux)                     RIP-Network                             ")                    
-     print("2) Instalar requisitos                  Version 6.0                             ")
-     print("3) Version de la herramienta ")
-     print("4) Spam-SMS (Termux)")
-     print("5) Como usar ")
-     print("99)Salir")
+     print(Fore.BLUE + "Opciones\n")     
+     print(azul+"1) Spam-SMS (Linux)                     RIP-Network                             "+cierre)                    
+     print(azul+"2) Instalar requisitos                  Version 7.0                             "+cierre)
+     print(azul+"3) Version de la herramienta "+cierre)
+     print(azul+"4) Spam-SMS (Termux)"+cierre)
+     print(azul+"5) Como usar "+cierre)
+     print(azul+"99)Salir"+cierre)
 
      d = input(Fore.LIGHTBLUE_EX + "C:\RIP-Network@root > ")
 
      if d == "1":
         print ("Por favor espere... ")
+        os.system('sleep 3')
         os.system('clear')
         print ("Nota : No funciona con numeros virtuales.")
-        time.sleep(5)
+        time.sleep(2)
         webbrowser.open('https://www.instagram.com/accounts/password/reset/')
         time.sleep(2)
         webbrowser.open('https://accounts.snapchat.com/accounts/password_reset/phone')
@@ -79,13 +83,11 @@ def menu():
         time.sleep(2)
         webbrowser.open('https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D')
         time.sleep(2)
-        webbrowser.open('https://mail.yandex.com/')
+        webbrowser.open('https://passport.yandex.com/registration/mail?from=mail&require_hint=1&origin=hostroot_homer_reg_com&retpath=https%3A%2F%2Fmail.yandex.com%2F&backpath=https%3A%2F%2Fmail.yandex.com%3Fnoretpath%3D1')
         time.sleep(2)
         webbrowser.open('https://web.telegram.org/k/')
         time.sleep
         webbrowser.open('https://www.tiktok.com/signup/phone-or-email?redirect_url=https%3A%2F%2Fwww.tiktok.com%2Fupload%3Flang%3Des&lang=es')
-        time.sleep(2)
-        webbrowser.open('https://ssl.zc.qq.com/v3/index-en.html')
         time.sleep(2)
         webbrowser.open('https://accounts.google.com/signup/v2/webgradsidvverify?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp&TL=AM3QAYa48CweUwImQCw_3Elte75AVCrYB6qeOJD4bRLxRrQfDjza1njxfXURCntM')
         time.sleep(2)
@@ -97,7 +99,7 @@ def menu():
         print("Vuelva atras del programa y ejecute en la terminal bash install.sh")
 
      if d == "3":
-         print("version 6.0 by RIP-Network")
+         print("version 7.0 by RIP-Network")
     
 
      elif d == "4":
