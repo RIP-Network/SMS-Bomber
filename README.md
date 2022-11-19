@@ -92,7 +92,9 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 * Steam
 
-* PayPal 
+* PayPal
+
+* Tinder
 
 * GitHub 
 
