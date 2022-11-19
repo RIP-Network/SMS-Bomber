@@ -33,7 +33,7 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V6.0 "
+echo " RIP-Network V7.5 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Instalar requisitos"
@@ -51,7 +51,7 @@ case $opcion in
 open https://www.instagram.com/accounts/password/reset/
 open https://accounts.snapchat.com/accounts/password_reset/phone
 open https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0
-open https://twitter.com/i/flow/password_reset?input_flow_data=%7B%22requested_variant%22%3A%22eyJwbGF0Zm9ybSI6IlJ3ZWIifQ%3D%3D%22%7D
+open https://www.paypal.com/es/welcome/signup/#/mobile_conf
 open https://mail.yandex.com/
 open https://web.telegram.org/k/
 open https://account.live.com/username/recover?wreply=https://login.live.com/login.srf%3flc%3d3082%26mkt%3dES-ES%26wa%3dwsignin1.0%26rpsnv%3d13%26ct%3d1666198253%26rver%3d7.0.6737.0%26wp%3dMBI_SSL%26wreply%3dhttps%253a%252f%252foutlook.live.com%252fowa%252f0%252f%253fstate%253d1%2526redirectTo%253daHR0cHM6Ly9vdXRsb29rLmxpdmUuY29tL21haWwvMC8%2526RpsCsrfState%253df0538ed8-93f0-d07e-bf5a-7a46544e907d%26id%3d292841%26aadredir%3d1%26whr%3drevtxt.com%26CBCXT%3dout%26lw%3d1%26fl%3ddob%252cflname%252cwld%26cobrandid%3d90015%26contextid%3d5015B1DD9156F9A2%26bk%3d1666198254%26uaid%3d3969d24881894986a209dd5917148ab9&id=292841&cobrandid=90015&mkt=ES-ES&lc=3082&uaid=3969d24881894986a209dd5917148ab9&uiflavor=web
@@ -72,7 +72,7 @@ pip install importlib_metadata
 read foo
 ;;
 3) echo "Version de la herramienta"
-echo "Version 6.0"
+echo "Version 7.5"
 sleep 4
 read foo
 ;;
