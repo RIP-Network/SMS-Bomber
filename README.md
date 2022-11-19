@@ -5,7 +5,9 @@ No hace falta usar VPN o mucho tiempo de espera con 30 minutos serian suficiente
 
 En la version 5.0 se ha añadido el archivo en bash , esto servira por si no funciona en python tener otra opcion , a la hora de ejecutar SMS.sh recuerda no tener root activado por si acaso puede dar errores.
 
-![Screenshot](sms.png)
+
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/RIP-Network/blob/main/pirate.gif"> </p>
+
 # Menu 
 
 * bash menu.sh
