@@ -33,7 +33,7 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V7.5 "
+echo " RIP-Network V8.0 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Spam-SMS (Termux)"
