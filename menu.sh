@@ -37,7 +37,8 @@ echo " RIP-Network V7.5 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Spam-SMS (Termux)"
-echo "3. Spam-Whatsapp"
+echo "3. Spam-Whatsapp (Linux Termux)"
+echo "4. Impulse (Linux)
 echo "99. Salir"
 echo ""
 
@@ -53,14 +54,22 @@ read foo
 
 2) echo "2. Spam-SMS (Termux)"
 clear
-bash SETSMS.sh
+cd tools
+python3 Termux.py
 read foo
 ;;
 
-3) echo "3. Spam-Whatsapp"
+3) echo "3. Spam-Whatsapp (Linux Termux)"
 clear
 python3 spamWa.py
 read foo 
+;;
+
+4) echo "4. Impulse (Linux)"
+clear
+cd tools
+bash SETSMS.sh
+read foo
 ;;
 
 99)exit 0;;
