@@ -53,7 +53,7 @@ banner = Fore.RED + """…………..$……………………………………
 
 print(banner)
 print(Fore.BLUE + "              RIP-Network")
-print(azul+"                 V7.5"+cierre)
+print(azul+"                 V8.0"+cierre)
 time.sleep(3)
 
 
@@ -61,7 +61,7 @@ def menu():
     while True:
      print(Fore.BLUE + "Opciones\n")     
      print(azul+"1) Spam-SMS (Linux)                     RIP-Network                             "+cierre)                    
-     print(azul+"2) Instalar requisitos                  Version 7.5                             "+cierre)
+     print(azul+"2) Instalar requisitos                  Version 8.0                             "+cierre)
      print(azul+"3) Version de la herramienta "+cierre)
      print(azul+"4) Spam-SMS (Termux)"+cierre)
      print(azul+"5) Como usar "+cierre)
@@ -103,9 +103,8 @@ def menu():
         print("Vuelva atras del programa y ejecute en la terminal bash install.sh")
 
      if d == "3":
-         print("version 7.5 by RIP-Network")
+         print("version 8.0 by RIP-Network")
     
-
      elif d == "4":
         print("Espere por favor...")
         os.system('clear')
