@@ -38,7 +38,7 @@ echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Spam-SMS (Termux)"
 echo "3. Spam-Whatsapp (Linux Termux)"
-echo "4. Impulse (Linux)
+echo "4. Impulse (Linux)"
 echo "99. Salir"
 echo ""
 
