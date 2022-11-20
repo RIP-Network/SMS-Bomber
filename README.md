@@ -110,7 +110,7 @@ La herramienta usara estas redes sociales para enviar SMS y llamadas a la victim
 
 # Versión
 
-Versión 7.5
+Versión 8.0
 
 # Canal de YT
 
