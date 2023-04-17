@@ -33,7 +33,7 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V7.5 "
+echo " RIP-Network V10.0 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Instalar requisitos"
@@ -72,7 +72,7 @@ pip install importlib_metadata
 read foo
 ;;
 3) echo "Version de la herramienta"
-echo "Version 7.5"
+echo "Version 10.0"
 sleep 4
 read foo
 ;;
