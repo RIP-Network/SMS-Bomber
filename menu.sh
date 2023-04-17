@@ -33,12 +33,13 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V8.0 "
+echo " RIP-Network V10.0 "
 echo ""
 echo "1. Spam-SMS (Linux)"
 echo "2. Spam-SMS (Termux)"
 echo "3. Spam-Whatsapp (Linux Termux)"
 echo "4. Impulse (Linux)"
+echo "5. Auto-Spam (Linux) (Only Spain)"
 echo "99. Salir"
 echo ""
 
@@ -69,6 +70,13 @@ read foo
 clear
 cd tools
 bash SETSMS.sh
+read foo
+;;
+
+5) echo "5. Auto-Spam (DEMO)"
+clear
+cd tools
+python3 madeinhell.py
 read foo
 ;;
 
