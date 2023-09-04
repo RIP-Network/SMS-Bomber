@@ -22,6 +22,7 @@ def es_root():
 if es_root():
     os.system('clear')
     print("Eres el usuario root. Esta herramienta no puede ejecutarse como root.")
+    time.sleep(5)
 else:
     print("")
 
