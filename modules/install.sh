@@ -1,3 +1,4 @@
+#!/bin/bash
 #Dependencias
 
 dependencias() {
