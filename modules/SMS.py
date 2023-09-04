@@ -119,8 +119,8 @@ def menu():
      elif d == "4":
         print("Espere por favor...")
         os.system('clear')
-        print("El spam SMS de termux no esta disponible.")
         time.sleep(2)
+        os.system('python3 Termux.py')
 
 
 
