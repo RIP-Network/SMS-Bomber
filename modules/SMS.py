@@ -15,8 +15,18 @@ calipso= '\033[36m'
 blanco = '\033[37m'
 cierre = '\033[39m'
 
-#Banner 
+#RootCheck
+def es_root():
+    return os.geteuid() == 0
 
+if es_root():
+    break
+    os.system('clear')
+    print("Eres el usuario root. Esta herramienta no puede ejecutarse como root.")
+else:
+    print("")
+
+#Banner 
 os.system('clear')
 print(rojo+"Happy Hacking"+cierre)
 os.system('sleep 5')
