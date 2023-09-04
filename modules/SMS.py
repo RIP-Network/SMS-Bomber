@@ -63,7 +63,7 @@ def menu():
      print(azul+"1) Spam-SMS (Linux)                     RIP-Network                             "+cierre)                    
      print(azul+"2) Instalar requisitos                  Version 21.5                             "+cierre)
      print(azul+"3) Version de la herramienta "+cierre)
-     print(azul+"4) Spam-SMS (Termux) (No Funcional)"+cierre)
+     print(azul+"4) Spam-SMS (Termux)"+cierre)
      print(azul+"5) Como usar "+cierre)
      print(azul+"99)Salir"+cierre)
 
