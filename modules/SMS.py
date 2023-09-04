@@ -20,7 +20,6 @@ def es_root():
     return os.geteuid() == 0
 
 if es_root():
-    break
     os.system('clear')
     print("Eres el usuario root. Esta herramienta no puede ejecutarse como root.")
 else:
