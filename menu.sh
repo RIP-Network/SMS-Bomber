@@ -49,7 +49,7 @@ read opcion
 case $opcion in
 1) echo "Spam-SMS (Linux)"
 clear
-python3 /modules/SMS.py
+python3 modules/SMS.py
 read foo
 ;;
 
@@ -62,21 +62,21 @@ read foo
 
 3) echo "3. Spam-Whatsapp (Linux Termux)"
 clear
-python3 /modules/spamWa.py
+python3 modules/spamWa.py
 read foo 
 ;;
 
 4) echo "4. Impulse (Linux)"
 clear
 cd tools
-bash /modules/SETSMS.sh
+bash modules/SETSMS.sh
 read foo
 ;;
 
 5) echo "5. SMS Anonimo"
 clear
 cd tools
-bash /modules/darksms.sh
+bash modules/darksms.sh
 read foo
 ;;
 
