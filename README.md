@@ -68,6 +68,8 @@ La herramienta con estas webs para hacer el spam hacia la victima en el modo man
 
 ![Screenshot](/images/mensajes.png)
 
+![Screenshot](/images/llamadas.png)
+
 # Banner
 
 ![Screenshot](/images/terminal.png)
