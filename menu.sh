@@ -76,7 +76,7 @@ read foo
 5) echo "5. SMS Anonimo"
 clear
 cd tools
-bash /modules/DarkSMS.sh
+bash /modules/darksms.sh
 read foo
 ;;
 
