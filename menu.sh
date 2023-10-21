@@ -56,7 +56,7 @@ read foo
 2) echo "2. Spam-SMS (Termux)"
 clear
 cd tools
-python3 Termux.py
+python3 modules/Termux.py
 read foo
 ;;
 
