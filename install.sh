@@ -6,7 +6,7 @@ dependencias() {
         clear
         printf "\e[1;93mInstalando dependencias\e[0m\n"
         printf "\e[1;93mRIP-Network\e[0m\n"
-        sudo apt-get upgrade -y
+        apt-get upgrade -y
         apt-get update -y
         pip3 install -r requeriments.txt
         pip install sys
@@ -18,7 +18,7 @@ dependencias() {
         pip install time
         pip install colorama
         pip install importlib_metadata
-         printf "\e[1;93mDependencias Instaladas con exito\e[0m\n"
+        printf "\e[1;93mDependencias Instaladas con exito\e[0m\n"
 
 
 }
