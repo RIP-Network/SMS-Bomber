@@ -1,6 +1,10 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 
+os.system('clear')
+print("Esta herramienta es recomendable usar la 4 opcion, es la unica estable y funcional.")
+time.sleep(5)
+
 p = '\x1b[0m'
 m = '\x1b[91m'
 h = '\x1b[92m'
