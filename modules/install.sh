@@ -9,16 +9,16 @@ dependencias() {
         apt-get upgrade && update
         apt-get install python3
         pip3 install -r requeriments.txt
-        pip install sys
-        pip install os
-        pip install webbrowser
-        pip install selenium
-        pip install platform
-        pip install subprocess
-        pip install time
-        pip install colorama
-        pip install importlib_metadata
-         printf "\e[1;93mDependencias Instaladas con exito\e[0m\n"
+        pip3 install sys
+        pip3 install os
+        pip3 install webbrowser
+        pip3 install selenium
+        pip3 install platform
+        pip3 install subprocess
+        pip3 install time
+        pip3 install colorama
+        pip3 install importlib_metadata
+        printf "\e[1;93mDependencias Instaladas con exito\e[0m\n"
 
 
 }
