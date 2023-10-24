@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 
-# -----------------------WARNA----------------------------
 p = '\x1b[0m'
 m = '\x1b[91m'
 h = '\x1b[92m'
@@ -12,9 +11,7 @@ bm = '\x1b[96m'
 bgm = '\x1b[41m'
 bgp = '\x1b[47m'
 res = '\x1b[40m'
-# -------------------------------------------------------
-# Sebuah Program Python Yg Menggunakan Program Berorientasi Object
-#------------------------Classes------------------------
+
 class spam:
 		
 	def __init__(self, nomer):
@@ -97,9 +94,7 @@ class spam:
 			return f'\x1b[92mSpamm TokoTalk {self.nomer} {h}Success!'
 		else:
 			return f'\x1b[92mSpamm TokoTalk {self.nomer} {m}Fail!'
-# ------------------------------------------------------------
 
-# ---------------------------Fungsi----------------------------
 def apakah():
 	while True:
 		lan=str(input(k+'\tWant more? y/n : '+h))
@@ -199,7 +194,7 @@ def multi():
 				print()
 		time.sleep(dly)
 	apakah()
-#-------------------------Fungsi Banner-----------------------
+
 def logo():
 	os.system('clear')
 	auth=m+'  Author : '+k+'./kitsune'
