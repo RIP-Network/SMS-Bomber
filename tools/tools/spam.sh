@@ -1,11 +1,5 @@
 #!/bin/bash
-#
-# spam: (26/01/2021)
-#
-# [Open Source] - [Código Abierto]
-#
-# Variables y Colores
-#
+
 PWD=$(pwd)
 OS=$(uname -o)
 USER=$(id -u)
@@ -19,9 +13,7 @@ amarillo='\033[33m'
 morado='\033[35m'
 cian='\033[1;36m'
 magenta='\033[1;35m'
-#
-# Mensaje de Opción Incorrecta
-#
+
 function Error {
 echo -e "${rojo}
 ┌═════════════════════┐
@@ -30,9 +22,7 @@ echo -e "${rojo}
 "${blanco}
 sleep 0.5
 }
-#
-# Banner SETSMS
-#
+
 function SETSMS {
 	sleep 0.5
 	clear
@@ -44,7 +34,5 @@ echo -e "${verde}
 ███████║███████╗   ██║   ███████║██║ ╚═╝ ██║███████║
 ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝"${blanco}
 }
-#
-# Declarando Funciones
-#
+
 source ${PWD}/tools/list.sh
