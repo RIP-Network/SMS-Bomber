@@ -2,7 +2,6 @@
 
 import sys, os, webbrowser, platform, subprocess, time
 from colorama import Fore
-from importlib_metadata import version
 from time import sleep
 
 #colores
