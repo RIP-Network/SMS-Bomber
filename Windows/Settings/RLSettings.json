@@ -1,0 +1,88 @@
+{
+  "General": {
+    "WaitTime": 0,
+    "RequestTimeout": 10,
+    "MaxHits": 0,
+    "BotsDisplayMode": 1,
+    "EnableBotLog": false,
+    "SaveLastSource": false,
+    "SendToCheckOnAbort": false,
+    "WebhookEnabled": false,
+    "WebhookURL": "",
+    "WebhookUser": "Undefined",
+    "RemoveDuplicateWordlist": false,
+    "DisableBotsListView": false
+  },
+  "Proxies": {
+    "ConcurrentUse": false,
+    "NeverBan": false,
+    "BanLoopEvasion": 100,
+    "ShuffleOnStart": false,
+    "Reload": true,
+    "ReloadSource": 0,
+    "ReloadPath": "",
+    "ReloadType": 0,
+    "ReloadInterval": 0,
+    "AlwaysGetClearance": false,
+    "GlobalBanKeys": [],
+    "GlobalRetryKeys": [],
+    "RemoteProxySources": []
+  },
+  "Captchas": {
+    "CurrentService": 0,
+    "AntiCapToken": "",
+    "ImageTypToken": "",
+    "DBCUser": "",
+    "DBCPass": "",
+    "TwoCapToken": "",
+    "RuCapToken": "",
+    "DCUser": "",
+    "DCPass": "",
+    "AZCapToken": "",
+    "SCToken": "",
+    "SRUserId": "",
+    "SRToken": "",
+    "TrueCapUser": "",
+    "TrueCapToken": "",
+    "CIOToken": "",
+    "CDToken": "",
+    "CustomTwoCapToken": "",
+    "CustomTwoCapDomain": "example.com",
+    "CustomTwoCapPort": 80,
+    "BypassBalanceCheck": false,
+    "Timeout": 120
+  },
+  "Selenium": {
+    "Browser": 0,
+    "Headless": false,
+    "FirefoxBinaryLocation": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe",
+    "ChromeBinaryLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "ChromeExtensions": [],
+    "DrawMouseMovement": true,
+    "FastStart": true,
+    "DisableAutomation": true,
+    "PageLoadTimeout": 60
+  },
+  "Ocr": {
+    "SaveImageToCaptchasFolder": true,
+    "GetIterator": false,
+    "VariableList": [
+      {
+        "Name": "tessedit_char_whitelist",
+        "Value": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "ValueType": 0
+      },
+      {
+        "Name": "tessedit_unrej_any_wd",
+        "Value": "true",
+        "ValueType": 3
+      }
+    ]
+  },
+  "CefSharp": {
+    "PackLoadingDisabled": false,
+    "IgnoreCertificateErrors": true,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36",
+    "CmdLineArgs": null
+  }
+}
