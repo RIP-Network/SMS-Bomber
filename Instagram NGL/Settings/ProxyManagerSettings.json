@@ -1,0 +1,10 @@
+{
+  "ProxySiteUrls": [
+    "https://google.com"
+  ],
+  "ProxyKeys": [
+    "title>Google"
+  ],
+  "ActiveProxySiteUrl": "https://google.com",
+  "ActiveProxyKey": "title>Google"
+}
